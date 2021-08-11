@@ -1,0 +1,9 @@
+.ExperienceContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.Experience {
+    margin: auto;
+    justify-content: flex-start;
+}
